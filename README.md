@@ -44,20 +44,20 @@ My target is to solve **two problems every day** and document my learning.
 
 Explore the repository by topic:
 
-| No. | Topic | Directory |
-|---|---|---|
-| 01 | Java Basics | [01-Java-Basics](./01-Java-Basics/) |
-| 02 | Arrays | [02-Arrays](./02-Arrays/) |
-| 03 | Strings | [03-Strings](./03-Strings/) |
-| 04 | Searching | [04-Searching](./04-Searching/) |
-| 05 | Sorting | [05-Sorting](./05-Sorting/) |
-| 06 | Hashing | [06-Hashing](./06-Hashing/) |
-| 07 | Linked Lists | [07-LinkedLists](./07-LinkedLists/) |
-| 08 | Stacks and Queues | [08-Stacks-Queues](./08-Stacks-Queues/) |
-| 09 | Recursion | [09-Recursion](./09-Recursion/) |
-| 10 | Trees | [10-Trees](./10-Trees/) |
-| 11 | Graphs | [11-Graphs](./11-Graphs/) |
-| 12 | Dynamic Programming | [12-Dynamic-Programming](./12-Dynamic-Programming/) |
+| No. | Topic | Directory | Status |
+|---|---|---|---|
+| 01 | Java Basics | [01-Java-Basics](./01-Java-Basics/) | Planned |
+| 02 | Arrays | [02-Arrays](./02-Arrays/) | In Progress |
+| 03 | Strings | [03-Strings](./03-Strings/) | Planned |
+| 04 | Searching | [04-Searching](./04-Searching/) | Planned |
+| 05 | Sorting | [05-Sorting](./05-Sorting/) | Planned |
+| 06 | Hashing | [06-Hashing](./06-Hashing/) | Planned |
+| 07 | Linked Lists | [07-LinkedLists](./07-LinkedLists/) | Planned |
+| 08 | Stacks and Queues | [08-Stacks-Queues](./08-Stacks-Queues/) | Planned |
+| 09 | Recursion | [09-Recursion](./09-Recursion/) | Planned |
+| 10 | Trees | [10-Trees](./10-Trees/) | Planned |
+| 11 | Graphs | [11-Graphs](./11-Graphs/) | Planned |
+| 12 | Dynamic Programming | [12-Dynamic-Programming](./12-Dynamic-Programming/) | Planned |
 
 ## Repository Structure
 
@@ -65,6 +65,12 @@ Explore the repository by topic:
 daily-engineering-practice/
 ├── 01-Java-Basics/
 ├── 02-Arrays/
+│   ├── ArrayIntersection.java
+│   ├── BestTimeToBuySellStock.java
+│   ├── ContainerWithMostWater.java
+│   ├── CountFrequency.java
+│   ├── EquilibriumIndex.java
+│   └── ... more array problems
 ├── 03-Strings/
 ├── 04-Searching/
 ├── 05-Sorting/
@@ -109,8 +115,8 @@ Progress will be updated as new topics and problems are completed.
 |---|---|
 | Daily problem target | 2 |
 | Primary language | Java |
-| Current focus | Java fundamentals and DSA |
-| Roadmap | In progress |
+| Current focus | Arrays and DSA |
+| Roadmap | In Progress |
 
 ## Contribution Philosophy
 
