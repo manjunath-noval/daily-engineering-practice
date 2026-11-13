@@ -99,6 +99,14 @@ For each problem, I aim to follow this process:
 6. Test edge cases and verify correctness.
 7. Document and commit meaningful changes.
 
+## Running Java Solutions
+
+To compile and run an individual solution from the repository root:
+
+```bash
+javac 02-Arrays/ArrayIntersection.java
+java -cp 02-Arrays ArrayIntersection
+
 ## Skills in Progress
 
 - **Programming:** Java
