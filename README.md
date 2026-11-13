@@ -1,23 +1,23 @@
 # Daily Engineering Practice
 
 <p align="center">
-  **Building problem-solving skills, one commit at a time.**
+  <strong>Building problem-solving skills, one commit at a time.</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-DSA-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Practice-Daily-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
 
 ## About
 
-**Daily Engineering Practice** is my personal coding and engineering practice repository. It documents my journey of improving problem-solving ability, strengthening programming fundamentals, and developing consistent software engineering habits.
+Daily Engineering Practice is my personal coding and engineering practice repository. It documents my journey of improving problem-solving ability, strengthening programming fundamentals, and developing consistent software engineering habits.
 
-The primary focus is **Java and Data Structures & Algorithms (DSA)**, supported by hands-on coding exercises and regular GitHub contributions.
+The primary focus is **Java and Data Structures & Algorithms (DSA)**.
 
-Rather than focusing only on solving problems, this repository emphasizes understanding concepts, writing clean code, analyzing solutions, and learning through consistent practice.
+This repository emphasizes understanding concepts, writing clean code, analyzing solutions, testing edge cases, and learning through consistent practice.
 
 ## Objectives
 
@@ -26,8 +26,7 @@ Rather than focusing only on solving problems, this repository emphasizes unders
 - Improve logical thinking and problem-solving skills.
 - Understand time and space complexity.
 - Write readable, maintainable, and efficient code.
-- Build a consistent daily engineering practice.
-- Maintain a meaningful and organized GitHub contribution history.
+- Build consistent engineering habits.
 
 ## Daily Practice Routine
 
@@ -43,63 +42,56 @@ My target is to solve **two problems every day** and document my learning.
 
 ## Learning Roadmap
 
-The repository is organized around progressive learning.
+Explore the repository by topic:
 
-| Stage | Topics |
-|---|---|
-| 01 | Java Basics |
-| 02 | Arrays and Strings |
-| 03 | Searching and Sorting |
-| 04 | Recursion and Backtracking |
-| 05 | Linked Lists |
-| 06 | Stacks and Queues |
-| 07 | Hashing |
-| 08 | Trees and Binary Search Trees |
-| 09 | Heaps and Priority Queues |
-| 10 | Graphs |
-| 11 | Greedy Algorithms |
-| 12 | Dynamic Programming |
-
-*Topics will be added and expanded as learning progresses.*
+| No. | Topic | Directory |
+|---|---|---|
+| 01 | Java Basics | [01-Java-Basics](./01-Java-Basics/) |
+| 02 | Arrays | [02-Arrays](./02-Arrays/) |
+| 03 | Strings | [03-Strings](./03-Strings/) |
+| 04 | Searching | [04-Searching](./04-Searching/) |
+| 05 | Sorting | [05-Sorting](./05-Sorting/) |
+| 06 | Hashing | [06-Hashing](./06-Hashing/) |
+| 07 | Linked Lists | [07-LinkedLists](./07-LinkedLists/) |
+| 08 | Stacks and Queues | [08-Stacks-Queues](./08-Stacks-Queues/) |
+| 09 | Recursion | [09-Recursion](./09-Recursion/) |
+| 10 | Trees | [10-Trees](./10-Trees/) |
+| 11 | Graphs | [11-Graphs](./11-Graphs/) |
+| 12 | Dynamic Programming | [12-Dynamic-Programming](./12-Dynamic-Programming/) |
 
 ## Repository Structure
 
 ```text
 daily-engineering-practice/
-│
 ├── 01-Java-Basics/
-│   ├── ...
-│
 ├── 02-Arrays/
-│   ├── ...
-│
 ├── 03-Strings/
-│   ├── ...
-│
-├── 04-Searching-Sorting/
-│   ├── ...
-│
-├── 05-Recursion/
-│   ├── ...
-│
-├── ...
-│
+├── 04-Searching/
+├── 05-Sorting/
+├── 06-Hashing/
+├── 07-LinkedLists/
+├── 08-Stacks-Queues/
+├── 09-Recursion/
+├── 10-Trees/
+├── 11-Graphs/
+├── 12-Dynamic-Programming/
+├── .gitignore
 └── README.md
 ```
 
-The structure is intended to keep solutions organized by topic. Folder names may evolve as the repository grows.
+Each topic has its own directory to keep implementations organized and easy to navigate.
 
 ## Problem-Solving Approach
 
-For each problem, I aim to follow a structured process:
+For each problem, I aim to follow this process:
 
-1. Understand the problem and identify the constraints.
+1. Understand the problem and its constraints.
 2. Develop a straightforward solution.
 3. Analyze time and space complexity.
 4. Optimize the approach where possible.
 5. Implement the solution in Java.
 6. Test edge cases and verify correctness.
-7. Commit meaningful changes to GitHub.
+7. Document and commit meaningful changes.
 
 ## Skills in Progress
 
@@ -113,14 +105,12 @@ For each problem, I aim to follow a structured process:
 
 Progress will be updated as new topics and problems are completed.
 
-| Metric | Progress |
+| Metric | Current Target |
 |---|---|
 | Daily problem target | 2 |
 | Primary language | Java |
 | Current focus | Java fundamentals and DSA |
 | Roadmap | In progress |
-
-> Progress is measured through completed work and understanding, not just the number of commits.
 
 ## Contribution Philosophy
 
@@ -135,16 +125,14 @@ Examples include:
 - Improved documentation.
 - Test cases and edge-case handling.
 
+Progress is measured through completed work and understanding, not just the number of commits.
+
 ## Long-Term Goal
 
-The goal is to build strong foundations in computer science and become a better software engineer through consistent practice.
-
-**Small improvements every day. Stronger engineering skills over time.**
-
----
+Build strong foundations in computer science and become a better software engineer through consistent practice.
 
 <p align="center">
-  **Learn. Solve. Optimize. Repeat.**
+  <strong>Learn. Solve. Optimize. Repeat.</strong>
 </p>
 
 <p align="center">
